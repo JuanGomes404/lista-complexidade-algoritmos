@@ -1,5 +1,7 @@
 class HeapSort
 {
+   
+   //Complexidade: O(n log n)
    public sort(arr: number[])
    {
        const size = arr.length;
